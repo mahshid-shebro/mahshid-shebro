@@ -68,6 +68,7 @@ A Python-based tool designed to prepare e-commerce product photography in batche
 | --- | --- |
 | [mahshidshebro.ir](https://mahshidshebro.ir) | Personal website and portfolio |
 | [Radvinex](https://radvinex.com) | Industrial equipment website |
+| [NovinTechAI](https://novintechai.com/) | End-to-end project delivery — independently handled from start to finish |
 | `inkalaa.ir` | E-commerce |
 | `iranbatri.com` | Website project |
 | `kianpower.com` | Website project |
