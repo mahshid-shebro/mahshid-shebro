@@ -68,8 +68,8 @@ A Python-based tool designed to prepare e-commerce product photography in batche
 | --- | --- |
 | [mahshidshebro.ir](https://mahshidshebro.ir) | Personal website and portfolio |
 | [Radvinex](https://radvinex.com) | Industrial equipment website |
-| [Inkalaa](https://inkalaa.com) | E-commerce |
-| [Kian Power](https://kianpower.com) | Website project |
+| Inkalaa | E-commerce |
+| Kian Power | Website project |
 
 *Production and client source repositories may be private. Public code samples are provided separately.*
 
